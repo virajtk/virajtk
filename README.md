@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virajtk
-- 👀 I’m interested in Software Architecher
-- 🌱 I’m currently learning Software Engineering at SLIIT
+- 👀 I’m interested in Software Architect
+- 🌱 I’m currently in 4th year Software Engineering at SLIIT
 - 💞️ I’m looking to collaborate on any Software Dev Project
 - 📫 How to reach me : Email : vkonthasinghe@gmail.com
 
